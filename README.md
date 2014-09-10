@@ -1,5 +1,5 @@
 3308Lab3
 ========
-* Adrian
-* Brian
+* My Name: Adrian
 SO MUCH CONFLICT!
+* Partner: Brian Newsom
